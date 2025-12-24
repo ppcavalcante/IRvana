@@ -15,6 +15,10 @@ Project features:
     - Working POCs using ORCJIT and MCJIT for runtime IR execution
     - Showcase malware development techniques and integration with LLVM interpreters for improved OPSEC
 
+Blog References:
+- <https://whiteknightlabs.com/2025/12/23/just-in-time-for-runtime-interpretation-unmasking-the-world-of-llvm-ir-based-jit-execution/>
+- <https://rohannk.com/posts/Code-in-the-Middle/>
+
 Here's an index of the project documentation:
 - [Introduction](#Introduction)
 - [Project Structure](#project-structure)
